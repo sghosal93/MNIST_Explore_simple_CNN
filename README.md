@@ -8,7 +8,7 @@ Individual codes have built-in README sections within. Codes can be executed on 
 
 3. Model Architecture and Design: model.py (for designing the CNN architecture and parameters and import purposes in the tarining and testing codes only)
 
-4. Things that can be done further on MNISt por similar datsets and problems:
+4. Things that can be done further on MNIST for similar datsets and problems:
 	1. Visualizing the learnt features and kernels
 	2. Run model explanation analysis (Saliency Maps, Grad-CAM and others and their variants)
 	3. Run PCA/tSNE/UMAP analysis for further exploration
